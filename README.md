@@ -1,0 +1,3 @@
+# Lab-2--Front--End-Web-Development
+This is my second lab. 
+You have to create some HTML pages based on the screenshots...
